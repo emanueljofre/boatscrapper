@@ -1,6 +1,5 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const { get } = require("mongoose");
 
 /* -------------------------------------------------------------------------- */
 /*                              CONFIG VARIABLES                              */
